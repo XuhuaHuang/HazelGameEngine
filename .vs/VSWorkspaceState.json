@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Hazel",
+    "\\Hazel\\Hazel",
+    "\\Hazel\\Hazel\\src",
+    "\\Hazel\\Sandbox",
+    "\\Hazel\\Sandbox\\src"
   ],
-  "SelectedNode": "\\Hazel.sln",
+  "SelectedNode": "\\Hazel\\Hazel\\src\\TestSetup.h",
   "PreviewInSolutionExplorer": false
 }
