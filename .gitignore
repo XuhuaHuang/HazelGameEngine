@@ -1,8 +1,14 @@
 # Prerequisites
 *.d
 
-# Compiled Object files
+# Project specifics
 v16/
+bin-int/
+bin/
+.vs/
+*.user
+
+# Compiled Object files
 *.sqlite
 *.slo
 *.lo

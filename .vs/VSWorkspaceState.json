@@ -4,9 +4,10 @@
     "\\Hazel",
     "\\Hazel\\Hazel",
     "\\Hazel\\Hazel\\src",
+    "\\Hazel\\Hazel\\src\\Hazel",
     "\\Hazel\\Sandbox",
     "\\Hazel\\Sandbox\\src"
   ],
-  "SelectedNode": "\\Hazel\\Hazel\\src\\TestSetup.h",
+  "SelectedNode": "\\Hazel\\Hazel\\src\\Hazel\\EntryPoint.h",
   "PreviewInSolutionExplorer": false
 }
