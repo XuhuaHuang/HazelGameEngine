@@ -1,7 +1,7 @@
 # Prerequisites
 *.d
 
-# Project specifics
+# Project Specified files
 v16/
 bin-int/
 bin/
